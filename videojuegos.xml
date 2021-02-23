@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VIDEOJUEGOS xmlns:html="http://www.w3.org/1999/xhtml">
+	<GENERO genero="FPS">
+		<videojuego>
+			<titulo imagen="PUBG Mobile" version_juego="v19.2.31.2" duracion="0">PUBG Mobile</titulo> 
+			<tiendas>
+				<tienda precio="0" moneda="0">
+					Apple Store
+				</tienda>
+				<tienda precio="0" moneda="0">
+					Play Store
+				</tienda>
+			</tiendas>
+			<idiomas>
+				<idioma pais_de_origen="España"/>
+				<idioma pais_de_origen="Reino Unido"/>
+				<idioma pais_de_origen="Francia"/>
+				<idioma pais_de_origen="Alemania"/>
+				<idioma pais_de_origen="Italia"/>
+				<idioma pais_de_origen="Holanda"/>
+				<idioma pais_de_origen="China"/>
+			</idiomas>
+			<dificultad>Dificil</dificultad>
+			<edad_recomendada pegi="12">PEGI</edad_recomendada>
+			<plataformas> <!--Que plataformas soporta-->
+				<plataforma mando="PantallaMovil">Movil</plataforma>
+			</plataformas>
+			<online>Si</online>
+			<anho_de_lanzamiento>2017</anho_de_lanzamiento>
+			<desarrolladores>
+				<desarrollador pais_de_origen="China">Tencent</desarrollador>
+			</desarrolladores>
+			<empresa>Tencent</empresa> <!--Empresa que vende el juego-->
+			<breve_descripcion>Copia del PUBG para pc en movil</breve_descripcion>
+			<resenhas>Si</resenhas>
+			<valoracion imagen="Estrella2"/>
+			<curiosidades>
+				<curiosidad>Hay muchos niños ratas</curiosidad>
+				<curiosidad>Tienes que echar a un amigo de tu equipo del LoL para jugar a esto</curiosidad>
+				<curiosidad>Hay gente de todos los niveles, y puede que un niño de 6 años te reveinte</curiosidad>
+			</curiosidades>
+		</videojuego>
+		
+		<videojuego>
+			<titulo imagen="Valorant" version_juego="v1.07" duracion="0">Valorant</titulo> 
+			<tiendas>
+				<tienda precio="0" moneda="0"><html:a href="https://playvalorant.com/es-es/" target="_blank">Riot Games</html:a></tienda><!--Link compra videojuego-->
+			</tiendas>
+			<idiomas>
+				<idioma pais_de_origen="España"/>
+				<idioma pais_de_origen="Portugal"/>
+				<idioma pais_de_origen="Reino Unido"/>
+				<idioma pais_de_origen="Rusia"/>
+				<idioma pais_de_origen="Polonia"/>
+				<idioma pais_de_origen="Corea"/>
+				<idioma pais_de_origen="China"/>
+				<idioma pais_de_origen="Japon"/>
+			</idiomas>
+			<dificultad>Dificil</dificultad>
+			<edad_recomendada pegi="16">PEGI</edad_recomendada>
+			<plataformas> <!--Que plataformas soporta-->
+				<plataforma mando="Teclado y raton">PC</plataforma>
+			</plataformas>
+			<online>Si</online>
+			<anho_de_lanzamiento>2020</anho_de_lanzamiento>
+			<desarrolladores>
+				<desarrollador pais_de_origen="Estados Unidos">David Nottingham</desarrollador>
+				<desarrollador pais_de_origen="Estados Unidos">Moby Francke</desarrollador>
+				<desarrollador pais_de_origen="Estados Unidos">Paul Chamberlain</desarrollador>
+			</desarrolladores>
+			<empresa>Riot Games</empresa> <!--Empresa que vende el juego-->
+			<breve_descripcion>Valorant es un videojuego de disparos en primera persona multijugador gratuito.</breve_descripcion>
+			<resenhas>Si</resenhas>
+			<valoracion imagen="Estrella45"/>
+			<curiosidades>
+				<curiosidad>Gran cantidad de jugadores profesionales de CS:GO migraron a este juego con el fin de aumentar su caché, puesto que muchos ya estaban perdiendo relevancia</curiosidad>
+				<curiosidad>Mixwell es el mejor jugador de España, y considerado por muchos, el mejor de Europa.</curiosidad>
+				<curiosidad>El rango máximo alcanzado por Álvaro, integrante de este grupo, es un triste Bronce 3</curiosidad>
+			</curiosidades>
+		</videojuego>
+	
+		<videojuego>
+			<titulo imagen="CSGO" version_juego="v1.37.6.7" duracion="0">CS:GO</titulo> 
+			<tiendas>	
+				<tienda precio="0" moneda="0"><html:embed src="https://store.steampowered.com/widget/730/" frameborder="0" width="646" height="190">Steam</html:embed></tienda><!--Link compra videojuego-->
+			</tiendas>	
+			<idiomas>
+				<idioma pais_de_origen="España"/>
+				<idioma pais_de_origen="Portugal"/>
+				<idioma pais_de_origen="Reino Unido"/>
+				<idioma pais_de_origen="Corea"/>
+				<idioma pais_de_origen="Japon"/>
+				<idioma pais_de_origen="Rusia"/>
+				<idioma pais_de_origen="Tailandia"/>
+				<idioma pais_de_origen="Turquia"/>
+				<idioma pais_de_origen="China"/>
+				<idioma pais_de_origen="Alemania"/>
+			</idiomas>
+			<dificultad>Dificil</dificultad>
+			<edad_recomendada pegi="16">PEGI</edad_recomendada>
+			<plataformas> <!--Que plataformas soporta-->
+				<plataforma mando="Teclado y raton">PC</plataforma>
+				<plataforma mando="mando">XBOX 360</plataforma>
+				<plataforma mando="mando">PS3</plataforma>
+			</plataformas>
+			<online>Si</online>
+			<anho_de_lanzamiento>2012</anho_de_lanzamiento>
+			<desarrolladores>
+				<desarrollador pais_de_origen="Vietnam">Minh Lee</desarrollador>
+				<desarrollador pais_de_origen="Estados Unidos">Jess Cliffe</desarrollador>
+			</desarrolladores>
+			<empresa>Valve Corporation</empresa> <!--Empresa que vende el juego-->
+			<breve_descripcion>CS:GO es un videojuego de disparos en primera persona multijugador.</breve_descripcion>
+			<resenhas>Si</resenhas>
+			<valoracion imagen="Estrella4"/>
+			<curiosidades>
+				<curiosidad>Es el shooter competitivo más conocido en el mundo.</curiosidad>
+			</curiosidades>
+		</videojuego>
+	
+		<videojuego>
+			<titulo imagen="Overwatch" version_juego="Digital" duracion="0">Overwatch</titulo> 
+			<tiendas>
+				<tienda precio="19.99" moneda="E">
+					<html:a href="https://eu.shop.battle.net/es-es/product/overwatch" target="_blank">Tienda de Battle.Net</html:a>
+				</tienda><!--Link compra videojuego-->
+				<tienda precio="19.99" moneda="E">
+					<html:a href="https://www.microsoft.com/es-es/p/overwatch-legendary-edition/9p2q994zwb64" target="_blank">XBOX Store</html:a>
+				</tienda><!--Link compra videojuego-->
+				<tienda precio="19.99" moneda="E">
+					<html:a href="https://store.playstation.com/es-es/product/EP0002-CUSA03974_00-OWLEGENDARY00000" target="_blank">Playstation Store</html:a>
+				</tienda><!--Link compra videojuego-->
+				<tienda precio="19.99" moneda="E">
+					<html:a href="https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/Overwatch-Legendary-Edition-1633055.html" target="_blank">Nintendo eShop</html:a>
+				</tienda><!--Link compra videojuego-->
+			</tiendas>	
+			<idiomas>
+				<idioma pais_de_origen="España"/>
+				<idioma pais_de_origen="Portugal"/>
+				<idioma pais_de_origen="Reino Unido"/>
+				<idioma pais_de_origen="Corea"/>
+				<idioma pais_de_origen="Japon"/>
+				<idioma pais_de_origen="Rusia"/>
+				<idioma pais_de_origen="Tailandia"/>
+				<idioma pais_de_origen="Francia"/>
+				<idioma pais_de_origen="China"/>
+				<idioma pais_de_origen="Alemania"/>
+			</idiomas>
+			<dificultad>Dificil</dificultad>
+			<edad_recomendada pegi="16">PEGI</edad_recomendada>
+			<plataformas> <!--Que plataformas soporta-->
+				<plataforma mando="Teclado y raton">PC</plataforma>
+				<plataforma mando="Mando XBOX">XBOX ONE</plataforma>
+				<plataforma mando="Mando Playstation">PS4</plataforma>
+			</plataformas>
+			<online>Si</online>
+			<anho_de_lanzamiento>2016</anho_de_lanzamiento>
+			<desarrolladores>
+				<desarrollador pais_de_origen="Estados Unidos">Jeffrey Kaplan</desarrollador>
+				<desarrollador pais_de_origen="Estados Unidos">Jeremy Craig</desarrollador>
+				<desarrollador pais_de_origen="Estados Unidos">Scott Mercer</desarrollador>
+				</desarrolladores>
+			<empresa>Blizzard</empresa> <!--Empresa que vende el juego-->
+			<breve_descripcion>Overwatch es un videojuego de disparos en primera persona multijugador.</breve_descripcion>
+			<resenhas>Si</resenhas>
+			<valoracion imagen="Estrella3"/>
+			<curiosidades>
+				<curiosidad>El videojuego de acción de Blizzard tiene la peculiaridad de ser el que ha contado con una beta abierta más grande hasta la fecha.</curiosidad>
+			</curiosidades>
+		</videojuego>
+	</GENERO>	
+	<GENERO genero="Deportes">
+		<videojuego>
+			<titulo imagen="FIFA20" version_juego="v1.9.2" duracion="">FIFA 20</titulo>
+			<tiendas>
+				<tienda precio="9.99" moneda="E">
+					<html:a href="https://www.origin.com/esp/es-es/store/fifa/fifa-20" target="_blank">Origin</html:a>
+				</tienda><!--Link compra videojuego-->
+				<tienda precio="9.99" moneda="E">
+					<html:a href="https://www.playstation.com/es-es/games/ea-sports-fifa-20/" target="_blank">Playstation Store</html:a>
+				</tienda><!--Link compra videojuego-->
+				<tienda precio="9.99" moneda="E">
+					<html:a href="https://www.xbox.com/es-ES/games/fifa-20#purchaseoptions" target="_blank">XBOX Store</html:a>
+				</tienda><!--Link compra videojuego-->
+				<tienda precio="9.99" moneda="E">
+					<html:a href="https://www.nintendo.es/Juegos/Nintendo-Switch/EA-SPORTS-FIFA-20-Legacy-Edition-para-Nintendo-Switch--1639619.html" target="_blank">Nintendo eShop</html:a>
+				</tienda><!--Link compra videojuego-->
+			</tiendas>
+			<idiomas>
+				<idioma pais_de_origen="España"/>
+				<idioma pais_de_origen="Reino Unido"/>
+				<idioma pais_de_origen="Francia"/>
+				<idioma pais_de_origen="Portugal"/>
+				<idioma pais_de_origen="Italia"/>
+				<idioma pais_de_origen="Holanda"/>
+				<idioma pais_de_origen="Brasil"/>
+				<idioma pais_de_origen="Arabe"/>
+				<idioma pais_de_origen="Checo"/>
+				<idioma pais_de_origen="Rusia"/>
+				<idioma pais_de_origen="Polonia"/>
+			</idiomas>
+			<dificultad>6/10</dificultad>
+			<edad_recomendada pegi="3">PEGI</edad_recomendada>
+			<plataformas> 
+				<plataforma mando="Mando XBOX">XBOX One</plataforma>
+				<plataforma mando="Mando Playstation">Playstation 4</plataforma>
+				<plataforma mando="Teclado y raton">PC</plataforma>
+				<plataforma mando="Mando Switch">Nintendo Switch</plataforma>
+			</plataformas>
+			<online>Si</online>
+			<anho_de_lanzamiento>2019</anho_de_lanzamiento>
+			<desarrolladores>
+				<desarrollador pais_de_origen="España">Electronic Arts</desarrollador>
+				<desarrollador pais_de_origen="Canada">EA Canada</desarrollador>
+				<desarrollador pais_de_origen="Rumania">EA Romania</desarrollador>
+			</desarrolladores>
+			<empresa>EA Sports</empresa> 
+			<breve_descripcion>FIFA 20, desarrollado por EA Sports y editado por Electronic Arts para PC, PlayStation 4, Xbox One y Switch, es una nueva entrega de la celebrada saga futbolística con las mejores ligas, clubes, jugadores y estadios junto a los ya clásicos modos historia y Ultimate Team.</breve_descripcion>
+			<resenhas>Sí</resenhas>
+			<valoracion imagen="Estrella35"/>
+			<curiosidades>
+				<curiosidad>El juego que más enfados produce</curiosidad>
+				<curiosidad>Incluye nuevo modo urbano llamado "VOLTA Football"</curiosidad>
+				<curiosidad>Primera vez que se incluye la licencia de un equipo de Emiratos Arabes, Al-Ain Football Club</curiosidad>
+			</curiosidades>
+		</videojuego>
+
+		<videojuego>
+			<titulo imagen="NBA2K21" version_juego="v1">NBA 2K21</titulo> 
+			<tiendas>	
+				<tienda precio="59.95" moneda="E">
+					<html:embed src="https://store.steampowered.com/widget/1225330/424679/" frameborder="0" width="646" height="190">Link de compra de NBA 2K21</html:embed>
+				</tienda><!--Link compra videojuego-->
+				<tienda precio="59.95" moneda="E">
+					<html:a href="https://www.playstation.com/es-es/games/nba-2k21/" target="_blank">Playstation Store</html:a>
+				</tienda><!--Link compra videojuego-->
+				<tienda precio="59.95" moneda="E">
+					<html:a href="https://www.xbox.com/es-ES/games/nba-2k21" target="_blank">XBOX Store</html:a>
+				</tienda><!--Link compra videojuego-->
+					<tienda precio="59.95" moneda="E">
+				<html:a href="https://www.nintendo.es/Juegos/Nintendo-Switch/NBA-2K21-1838177.html" target="_blank">Nintendo eShop</html:a>
+				</tienda><!--Link compra videojuego-->
+				<tienda precio="59.95" moneda="E">
+					<html:a href="https://stadia.google.com/?hl=es" target="_blank">Google Stadia (suscripción)</html:a>
+				</tienda><!--Link compra videojuego-->
+			</tiendas>	
+			<idiomas>
+				<idioma pais_de_origen="España"/>
+				<idioma pais_de_origen="Reino Unido"/>
+				<idioma pais_de_origen="Francia"/>
+				<idioma pais_de_origen="Alemania"/>
+				<idioma pais_de_origen="Italia"/>
+				<idioma pais_de_origen="Japon"/>
+				<idioma pais_de_origen="Corea"/>
+				<idioma pais_de_origen="China"/>
+			</idiomas>
+			<dificultad>Fácil/Media</dificultad>
+			<edad_recomendada pegi="3">PEGI</edad_recomendada>
+			<plataformas> 
+				<plataforma mando="Mando XBOX">XBOX X / XBOX Y</plataforma>
+				<plataforma mando="Teclado y raton">PC</plataforma>
+				<plataforma mando="DualShock5">Playstation 5</plataforma>
+				<plataforma mando="DualShock4">Playstation 4</plataforma>
+				<plataforma mando="Teclado y raton">Google Stadia</plataforma>
+				<plataforma mando="Mando Switch">Nintendo Switch</plataforma>
+			</plataformas>
+			<online>Si</online>
+			<anho_de_lanzamiento>2020</anho_de_lanzamiento>
+			<desarrolladores>
+				<desarrollador pais_de_origen="Estados Unidos">Visual Concepts</desarrollador>
+			</desarrolladores>
+			<empresa>Visual Concepts</empresa> 
+			<breve_descripcion>NBA 2K21 es un videojuego de simulación de baloncestodesarrollado por Visual Concepts y publicado por 2K Sports , basado en la Asociación Nacional de Baloncesto ( NBA ). Es la 22a entrega de lafranquicia NBA 2K y la sucesora de NBA 2K20.</breve_descripcion>
+			<resenhas>Sí</resenhas>
+			<valoracion imagen="Estrella2"/>
+			<curiosidades>
+				<curiosidad>Mala crítica entre los usuarios</curiosidad>
+				<curiosidad>Con posibilidad de compra de la Edición Mamba Forever, tributo al fallecido Kobe Bryant</curiosidad>
+			</curiosidades>
+		</videojuego>
+		
+		<videojuego>
+		<titulo imagen="CAPTAINTSUBASA" version_juego="v1.2" duracion="">Captain Tsubasa: Rise of New Champions</titulo> 
+		<tiendas>
+			<tienda precio="49.95" moneda="E">
+				<html:embed src="https://store.steampowered.com/widget/1163550/397343/" frameborder="0" width="646" height="190">Link de compra de Captain Tsubasa</html:embed>
+			</tienda><!--Link compra videojuego-->
+			<tienda precio="49,95" moneda="E">
+					<html:a href="https://store.playstation.com/es-es/product/EP0700-CUSA14896_00-0000000000000001" target="_blank">Playstation Store</html:a>
+				</tienda><!--Link compra videojuego-->
+				<tienda precio="49,95" moneda="E">
+					<html:a href="https://www.nintendo.es/Juegos/Nintendo-Switch/Captain-Tsubasa-Rise-of-New-Champions-1818954.html" target="_blank">Nintendo eShop</html:a>
+				</tienda><!--Link compra videojuego-->
+		</tiendas>
+		<idiomas>
+			<idioma pais_de_origen="España"/>
+			<idioma pais_de_origen="Reino Unido"/>
+			<idioma pais_de_origen="Japon"/>
+		</idiomas>
+		<dificultad>Fácil</dificultad>
+		<edad_recomendada pegi="7">PEGI</edad_recomendada>
+		<plataformas> 
+			<plataforma mando="Mando XBOX">XBOX ONE</plataforma>
+			<plataforma mando="Mando Playstation">Playstation 4</plataforma>
+			<plataforma mando="Teclado y raton">PC</plataforma>
+		</plataformas>
+		<online>Si</online>
+		<anho_de_lanzamiento>2020</anho_de_lanzamiento>
+		<desarrolladores>
+			<desarrollador pais_de_origen="Japon">Tamsoft</desarrollador>
+		</desarrolladores>
+		<empresa>Banda Namco Entertainment</empresa> 
+		<breve_descripcion>Videojuego dirigido a los fans del anime o el manga, ya que lo que busca no es ofrecer un buen título de fútbol arcade, sino una muy excelente recreación de los espectaculares partidos de la serie.</breve_descripcion>
+		<resenhas>Sí</resenhas>
+		<valoracion imagen="Estrella3"/>
+		<curiosidades>
+			<curiosidad>Muy buena animación con la posibilidad de jugar en versión original</curiosidad>
+			<curiosidad>Posibilidad de rememorar los momentos más icónicos de la serie</curiosidad>
+		</curiosidades>
+	</videojuego>
+	<videojuego>
+		<titulo imagen="Rocketleague" version_juego="v1.85" duracion="">Rocket League</titulo> 
+		<tiendas>
+			<tienda precio="0" moneda="0">
+				<html:a href="https://www.epicgames.com/store/es-ES/product/rocket-league/home" target="_blank">Epic Games Store</html:a>
+			</tienda><!--Link compra videojuego-->
+			<tienda precio="0" moneda="0">
+				<html:a href="https://store.playstation.com/es-es/product/EP2002-CUSA01433_00-ROCKETLEAGUEEU01" target="_blank">Playstation Store</html:a>
+			</tienda><!--Link compra videojuego-->
+			<tienda precio="0" moneda="0">
+				<html:a href="https://www.microsoft.com/es-es/p/rocket-league/c125w9bg2k0v" target="_blank">XBOX Store</html:a>
+			</tienda><!--Link compra videojuego-->
+			<tienda precio="0" moneda="0">
+				<html:a href="https://www.nintendo.es/Juegos/Nintendo-Switch/Rocket-League--1234174.html" target="_blank">Nintendo eShop</html:a>
+			</tienda><!--Link compra videojuego-->
+		</tiendas>
+		<idiomas>
+			<idioma pais_de_origen="España"/>
+			<idioma pais_de_origen="Reino Unido"/>
+			<idioma pais_de_origen="Japon"/>
+		</idiomas>
+		<dificultad>Difícil</dificultad>
+		<edad_recomendada pegi="3">PEGI</edad_recomendada>
+		<plataformas> 
+			<plataforma mando="Mando XBOX">XBOX ONE</plataforma>
+			<plataforma mando="Teclado y ratón">PC (Windows)</plataforma>
+			<plataforma mando="DualShock4">PS4</plataforma>
+			<plataforma mando="Mando Switch">Nintendo Switch</plataforma>
+		</plataformas>
+		<online>Si</online>
+		<anho_de_lanzamiento>2015</anho_de_lanzamiento>
+		<desarrolladores>
+			<desarrollador pais_de_origen="Estados Unidos">Psyonix</desarrollador>
+		</desarrolladores>
+		<empresa>Epic Games</empresa> 
+		<breve_descripcion>
+		Rocket League es la apuesta más innovadora en el mundo de los videojuegos deportivos, con un formato muy divertido y a la vez, excesivamente competitivos.
+		Controla tu vehículo en partidos de 5 minutos e intenta marcar con él tantos goles como puedas. O juega con amigos en los modos extra y disfruta de una 
+		variedad de deportes a través de tu coche. El juego cuenta con una gran complejidad a nivel competitivo: infinidad de mecánicas, tácticas y un constante
+		control del campo. Siéntete como un profesional.
+		</breve_descripcion>
+		<resenhas>
+		El juego es divertido, y la idea está bien explotada, pero fallan muchas cosas. Su comunidad es pésima, y Psyonix no parece hacer nada para mejorarlo.
+		Por otra parte, los servidores fallan constantemente, dificultando muchas veces la experiencia de juego. Pero lo cierto es que, pese a su alta dificultad
+		para los jugadores principiantes, resulta muy entretenido para una partida entre amigos.
+		</resenhas>
+		<valoracion imagen="Estrella4"/>
+		<curiosidades>
+			<curiosidad>
+			Rocket League tuvo una precuela nacida en 2008, conocida popularmente como SARPBC, por su largo e impronunciable nombre: Supersonic Acrobatic
+			Rocket-Powered Battle-Cars. El juego fue poco exitoso, con razón.
+			</curiosidad>
+			<curiosidad>
+			Psyonix fue absorbida por Epic Games el año pasado, y a raíz de este movimiento, el juego se ha convertido en free to play hace escasos dos meses.
+			</curiosidad>
+			<curiosidad>
+			Frente al fracaso de Álvaro en Valorant, Manu, otro componente de este grupo, ha alcanzado durante dos temporadas seguidas el rango de diamante en el juego tras
+			800 horas de esfuerzo. Alguien tenía que tener éxito aquí.
+			</curiosidad>
+		</curiosidades>
+	</videojuego>
+	</GENERO>
+	<GENERO genero="Plataformas">
+		<videojuego>
+			<titulo imagen="Minecraft" version_juego="v1.16.4" duracion="ilimitado">Minecraft</titulo>
+			<tiendas>	
+				<tienda precio="14.99" moneda="E"><html:embed src="https://store.steampowered.com/widget/945360/" frameborder="0" width="646" height="190">Link de compra de Among Us</html:embed></tienda><!--Link compra videojuego-->
+			</tiendas>
+			<idiomas>
+				<idioma pais_de_origen="España"/>
+				<idioma pais_de_origen="Reino Unido"/>
+			</idiomas>
+			<dificultad>10/10</dificultad>
+			<edad_recomendada pegi="18">PEGI</edad_recomendada>
+			<plataformas> 
+				<plataforma mando="Mando XBOX">XBOX 360</plataforma>
+				<plataforma mando="Teclado y raton">PC</plataforma>
+			</plataformas>
+			<online>Si</online>
+			<anho_de_lanzamiento>1990</anho_de_lanzamiento>
+			<desarrolladores>
+				<desarrollador pais_de_origen="España">Mariano Rajoy</desarrollador>
+				<desarrollador pais_de_origen="Andorra">Pedro Sánchez</desarrollador>
+			</desarrolladores>
+			<empresa>Majong</empresa> 
+			<breve_descripcion>Un juego de bloques pa niños</breve_descripcion>
+			<resenhas>Sí</resenhas>
+			<valoracion imagen="Estrella5"/>
+			<curiosidades>
+				<curiosidad>No hay cuadrados</curiosidad>
+				<curiosidad>Programado en Java</curiosidad>
+			</curiosidades>
+		</videojuego>
+	</GENERO>
+
+	<GENERO genero="RPG">	
+		<videojuego>
+
+			<titulo imagen="Final Fantasy VII" version_juego="CD-ROM" duracion="39 horas">Final Fantasy VII</titulo>
+			<tiendas>	
+				<tienda precio="11.99" moneda="E"><html:embed src="https://store.steampowered.com/widget/39140/" frameborder="0" width="646" height="190">Link de compra de Final Fantasy VII</html:embed></tienda><!--Link compra videojuego-->
+			</tiendas>	
+			<idiomas>
+				<idioma pais_de_origen="España"/>
+				<idioma pais_de_origen="Ingles"/>
+				<idioma pais_de_origen="Japon"/>
+				<idioma pais_de_origen="Alemania"/>
+				<idioma pais_de_origen="Francia"/>
+			</idiomas>
+			<dificultad>Media</dificultad>
+			<edad_recomendada pegi="16">PEGI</edad_recomendada>
+			<plataformas>
+				<plataforma mando="Teclado y raton">PC</plataforma>
+				<plataforma mando="DualShock">PS1 (Descatalogado)</plataforma>
+			</plataformas>
+			<online>No</online>
+			<anho_de_lanzamiento>1997</anho_de_lanzamiento>
+			<desarrolladores>
+				<desarrollador pais_de_origen="Japon">Square Enix</desarrollador>
+			</desarrolladores>
+			<empresa>Square Enix</empresa>
+			<breve_descripcion>
+			Se trata de la séptima entrega de la famosa saga de Final Fantasy.Cloud 
+			y sus aliados se ven envueltos en un conflicto que representa una amenaza aún mayor para 
+			el mundo, enfrentándose a Sefirot, el antagonista principal del juego.
+			</breve_descripcion>
+			<resenhas>
+			Estamos hablando de uno de los juegos más emblemáticos y queridos por la comunidad,
+			que marcó a toda una generación.Donde mucha gente descubrió el amplio mundo de los RPGS.
+			</resenhas>
+			<valoracion imagen="Estrella45"/>
+			<curiosidades>
+				<curiosidad>
+				Muchos fueron los rumores y especulaciones sobre el juego hasta la reciente salida del 
+				remake de Final Fantasy VII a principios de este 2020, lo cual ha despertado en muchos
+				jugadores la ilusión de la primera vez que jugaron esta saga.
+				</curiosidad>
+			</curiosidades>
+
+		</videojuego>
+
+		<videojuego>
+			
+			<titulo imagen="Undertale" version_juego="Digital" duracion="8 horas">Undertale</titulo>
+			<tiendas>
+				<tienda precio="9.99" moneda="E">
+					<html:embed src="https://store.steampowered.com/widget/391540/74780/" frameborder="0" width="646" height="190">Link de compra de Undertale</html:embed>
+				</tienda>
+				<tienda precio="9,99" moneda="E">
+					<html:a href="https://store.playstation.com/es-es/product/EP3746-CUSA09415_00-CB00000000000084" target="_blank">Playstation Store</html:a>
+				</tienda><!--Link compra videojuego-->
+				<tienda precio="9.99" moneda="E">
+					<html:a href="https://www.microsoft.com/es-es/p/undertale/9n046hwgq4j2" target="_blank">XBOX Store</html:a>
+				</tienda><!--Link compra videojuego-->
+				<tienda precio="9.99" moneda="E">
+					<html:a href="https://www.nintendo.es/Juegos/Programas-descargables-Nintendo-Switch/UNDERTALE-1347694.html" target="_blank">Nintendo eShop</html:a>
+				</tienda><!--Link compra videojuego-->
+			</tiendas>	
+			<idiomas>
+				<idioma pais_de_origen="España"/>
+				<idioma pais_de_origen="Reino Unido"/>
+				<idioma pais_de_origen="Francia"/>
+				<idioma pais_de_origen="Japon"/>
+			</idiomas>
+			<dificultad>Media</dificultad>
+			<edad_recomendada pegi="12">PEGI</edad_recomendada>
+			<plataformas>
+				<plataforma mando="Teclado y raton">PC</plataforma>
+				<plataforma mando="DualShock4">PS4</plataforma>
+			</plataformas>
+			<online>No</online>
+			<anho_de_lanzamiento>2015</anho_de_lanzamiento>
+			<desarrolladores>
+				<desarrollador pais_de_origen="Estados Unidos">Toby Fox</desarrollador>
+			</desarrolladores>
+			<empresa>Toby Fox (Independiente)</empresa>
+			<breve_descripcion>
+			Desarrollado independientemente por Toby Fox, este juego nos muestra la perspectiva de
+			un niño humano, caído en un mundo subterráneo conocido como "subsuelo", a lo largo del 
+			camino se encontrará con diferentes monstruos, a los que podrá elegir si matar, o optar
+			por un final pacífico, determinando por completo el futuro de la historia.
+			</breve_descripcion>
+			<resenhas>
+			Undertale desafía los roles actuales de los videojuegos, con un arriesgado método pero una
+			mágnifica ejecución y perfectos resultados, siendo en su época una gran revolución en la industria
+			de los videojuegos.
+			</resenhas>
+			<valoracion imagen="Estrella45"/>
+			<curiosidades>
+				<curiosidad>
+				Dentro del propio juego aparece un perro conocido como "Annoying Dog", el cual representa a
+				Toby Fox, el propio creador del juego.
+				</curiosidad>
+			</curiosidades>
+
+		</videojuego>
+
+		<videojuego>
+		<titulo imagen="Pokemon Platino" version_juego="Cartucho de NDS" duracion="35 horas">Pokemon Platino</titulo>
+			<tiendas>
+				<tienda precio="29.95" moneda="E"><html:a href="https://www.nintendo.es/Juegos/Nintendo-DS/Pokemon-Edicion-Platino-272321.html" target="_blank">Nintendo eShop (Descatalogado)</html:a></tienda><!--Link compra videojuego-->
+			</tiendas>	
+			<idiomas>
+				<idioma pais_de_origen="España"/>
+				<idioma pais_de_origen="Reino Unido"/>
+				<idioma pais_de_origen="Japon"/>
+			</idiomas>
+			<dificultad>Fácil/Media</dificultad>
+			<edad_recomendada pegi="16">PEGI</edad_recomendada>
+			<plataformas>
+				<plataforma mando="DS">Nintendo DS</plataforma>
+			</plataformas>
+			<online>Si</online>
+			<anho_de_lanzamiento>2008/2009</anho_de_lanzamiento>
+			<desarrolladores>
+				<desarrollador pais_de_origen="Japon">Game Freak</desarrollador>
+			</desarrolladores>
+			<empresa>Nintendo</empresa>
+			<breve_descripcion>
+			Tercer juego de la IV Generación de Pokémon. Considerado como "remake" de los anteriores
+			Pokémon Diamante y Perla. Con un protagonista perteneciente a la ficticia región de Sinnoh
+			en busca de capturar y entrenar nuevos Pokemons.
+			</breve_descripcion>
+			<resenhas>
+			En esta ampliación de Pokemon Diamante y Perla nos muestran el máximo potencial que estos mismos
+			podían alcanzar, creando un espléndido juego RPG de la famosa saga Pokemon.
+			</resenhas>
+			<valoracion imagen="Estrella4"/>
+			<curiosidades>
+				<curiosidad>
+				En la versión europea de Pokémon Platino no aparecían las típicas máquinas tragaperras que sí 
+				quedaron intactas en las versiones americana y japonesa. ¿La razón? En aquel momento se pensó
+				que podrían incitar al consumo en la vida real de estas máquinas.
+				</curiosidad>
+			</curiosidades>
+		</videojuego>
+			<videojuego>
+		<titulo imagen="Genshin Impact" version_juego="1.1" duracion="+40 horas">Genshin Impact</titulo>
+			<tiendas>
+				<tienda precio="0" moneda="0"><html:a href="https://genshin.mihoyo.com/en" target="_blank">Página oficial del Genshin Impact</html:a></tienda><!--Link compra videojuego-->
+			</tiendas>	
+			<idiomas>
+				<idioma pais_de_origen="Japon"/>
+			</idiomas>
+			<dificultad>Media</dificultad>
+			<edad_recomendada pegi="12">PEGI</edad_recomendada>
+			<plataformas>
+				<plataforma mando="DualShock4">PS4</plataforma>
+				<plataforma mando="Teclado y raton">PC</plataforma>
+			</plataformas>
+			<online>Si</online>
+			<anho_de_lanzamiento>2020</anho_de_lanzamiento>
+			<desarrolladores>
+				<desarrollador pais_de_origen="China">miHoYo</desarrollador>
+			</desarrolladores>
+			<empresa>miHoYo</empresa>
+			<breve_descripcion>
+			los jugadores se embarcarán en varias aventuras como forasteros y viajarán con diferentes personajes
+			con habilidades únicas que van encontrando en el camino para explorar lo desconocido y descubrir los
+			secretos de Genshin en esta tierra. Los jugadores, al comienzo del juego, pueden elegir ser un hermano 
+			o una hermana que se adentra en la aventura en búsqueda de su familia.
+			</breve_descripcion>
+			<resenhas>
+			Genshin Impact demuestra que este potencial puede conseguir incluso equipos que hasta hace poco estaban
+			ocupados con proyectos para iOS y Android como miHoYo, fundado en 2012 y con títulos como Zombiegal Kawaii,
+			Guns GirlZ o Honkai Impact 3rd
+			</resenhas>
+			<valoracion imagen="Estrella35"/>
+			<curiosidades>
+				<curiosidad>
+				Genshin Impact entró en una gran polémica con su lanzamiento por su semejanza con el famoso Zelda Breath Of
+				The Wild, por utuilizar su modelo de mundo abierto en "free to play".
+				</curiosidad>
+			</curiosidades>
+		</videojuego>
+	</GENERO>	
+
+	<GENERO genero="Carreras">
+
+		<videojuego>
+			<titulo imagen="forza" version_juego="Digital" duracion="Ilimitado">Forza Horizon 4</titulo>
+			<tiendas>
+				<tienda precio="32.95" moneda="E"><html:a href="https://www.microsoft.com/es-es/p/forza-horizon-4/9pnqkhfld2wq" target="_blank">Microsoft Store</html:a></tienda>
+			</tiendas>
+			<idiomas>
+				<idioma pais_de_origen="España"/>
+				<idioma pais_de_origen="Reino Unido"/>
+				<idioma pais_de_origen="Francia"/>
+				<idioma pais_de_origen="Alemania"/>
+				<idioma pais_de_origen="Italia"/>
+				<idioma pais_de_origen="Japon"/>
+				<idioma pais_de_origen="Holanda"/>
+				<idioma pais_de_origen="Polonia"/>
+				<idioma pais_de_origen="China"/>
+				<idioma pais_de_origen="Rusia"/>
+			</idiomas>
+			<dificultad>Fácil/Media/Dificil (Ajustable)</dificultad>
+			<edad_recomendada pegi="3">PEGI</edad_recomendada>
+			<plataformas>
+				<plataforma mando="Mando XBOX" volante="si">XBOX ONE</plataforma>
+				<plataforma mando="Teclado y ratón" volante="si">PC (Windows)</plataforma>
+			</plataformas>
+			<online>Si</online>
+			<anho_de_lanzamiento>2018</anho_de_lanzamiento>
+			<desarrolladores>
+				<desarrollador pais_de_origen="Reino Unido">Playground Games</desarrollador>
+			</desarrolladores>
+			<empresa>Microsoft</empresa>
+			<breve_descripcion>
+			Forza Horizon 4 es el catorceavo juego de la saga Forza, y más concretamente la cuarta parte de la subsaga Horizon. 
+			Con respecto a otros juegos de carreras, en los que se nos ofrece una enorme profundidad histórica, o un listado simple
+			de carreras, Forza deja al jugador en libertad, en un precioso y bien definido mundo abierto, con un enorme abanico de
+			coches a elegir, desde los más clásicos, hasta los más inusuales y bizarros; así como infinitas posibilidades de personalización.
+			</breve_descripcion>
+			<resenhas>
+			Si bien el cambio con respecto a anteriores entregas de la saga es mínimo, Forza Horizon 4 resulta muy divertido
+			y permite al usuario disfrutar de una experiencia única, no solo a nivel de jugabilidad, sino también a nivel gráfico,
+			aspecto en el que esta saga aventaja a otras de su competencia.
+			</resenhas>
+			<valoracion imagen="Estrella45"/>
+			<curiosidades>
+				<curiosidad>
+				Debido a posibles fallos en los datos del juego, o a versiones desactualizadas de XBOX, algunos jugadores se han encontrado con un
+				coche cuyo nombre es "NULL CAR". Este aparece cuando el juego no puede mostrar al usuario el coche que debería estar en ese lugar,
+				y lo sustituye con un vehículo predeterminado, concretamente un Ford Falcon negro, carente de personalizaciones y/o símbolos identificativos.
+				</curiosidad>
+				<curiosidad>
+				Uno de los NPCs a los que podemos enfrentarnos, M. Rossi, es conocido por ser especialmente duro de batir, siendo considerado una leyenda.
+				</curiosidad>
+			</curiosidades>
+		</videojuego>
+		
+		<videojuego>
+			<titulo imagen="nfs" version_juego="Digital" duracion="Ilimitado">Need For Speed:Hot Pursuit Remastered</titulo>
+			<tiendas>
+				<tienda precio="29.99" moneda="E">
+					<html:embed src="https://store.steampowered.com/widget/1328660/" frameborder="0" width="646" height="190">Link de compra de Need For Speed:Hot Pursuit Remastered</html:embed>
+				</tienda>
+					<tienda precio="32.95" moneda="E">
+						<html:a href="https://www.origin.com/esp/es-es/store/need-for-speed/need-for-speed-hot-pursuit-remastered" target="_blank">Origin</html:a>
+					</tienda>
+					<tienda precio="32.95" moneda="E">
+						<html:a href="https://store.playstation.com/es-es/product/EP0006-CUSA23265_00-NEEDFORSPEEDHPR0" target="_blank">Playstation Store</html:a>
+					</tienda>
+					<tienda precio="32.95" moneda="E">
+						<html:a href="https://www.microsoft.com/es-es/p/NeedforSpeedHotPursuitRemastered/9NMBJQ0265ZK" target="_blank">Microsoft Store</html:a>
+					</tienda>
+					<tienda precio="32.95" moneda="E">
+						<html:a href="https://www.nintendo.es/Juegos/Nintendo-Switch/Need-for-Speed-Hot-Pursuit-Remastered-1853288.html" target="_blank">Nintendo eShop</html:a>
+					</tienda>
+			</tiendas>
+			<idiomas>
+				<idioma pais_de_origen="España"/>
+				<idioma pais_de_origen="Reino Unido"/>
+				<idioma pais_de_origen="Francia"/>
+				<idioma pais_de_origen="Alemania"/>
+				<idioma pais_de_origen="Italia"/>
+				<idioma pais_de_origen="Japon"/>
+				<idioma pais_de_origen="Holanda"/>
+				<idioma pais_de_origen="Polonia"/>
+				<idioma pais_de_origen="China"/>
+				<idioma pais_de_origen="Rusia"/>
+			</idiomas>
+			<dificultad>Fácil/Media/Dificil (Ajustable)</dificultad>
+			<edad_recomendada pegi="3">PEGI</edad_recomendada>
+			<plataformas>
+				<plataforma mando="Mando XBOX" volante="si">XBOX ONE</plataforma>
+				<plataforma mando="Teclado y ratón" volante="si">PC (Windows)</plataforma>
+				<plataforma mando="DualShock4" volante="si">PS4</plataforma>
+				<plataforma mando="Mando Switch" volante="no">Nintendo Switch</plataforma>
+			</plataformas>
+			<online>Si</online>
+			<anho_de_lanzamiento>2020</anho_de_lanzamiento>
+			<desarrolladores>
+				<desarrollador pais_de_origen="Reino Unido">Stellar Entertainment</desarrollador>
+			</desarrolladores>
+			<empresa>Electronic Arts</empresa>
+			<breve_descripcion>
+			Need For Speed:Hot Pursuit Remastered es el juego soñado por los más incondicionales de la aclamada saga. Una remasterización de 
+			un juego que ya triunfó en su momento, manteniendo la esencia de aquello que le llevó al olimpo del género. Persecuciones tan increibles como las
+			del juego original, ahora con un toque especial de modernidad. Las mejoras en gráficos y físicas, así como la adición de nuevas posibilidades, hacen
+			de este un juego magnífico para quienes ya disfrutaron del anterior, sin dejar atrás a aquellos que no lo hicieron.
+			</breve_descripcion>
+			<resenhas>
+			Este nuevo Need For Speed cumple con creces el nivel esperado, y la expectación generada por ser un remaster de un clásico de la saga. Sin embargo,
+			al igual que ocurre con la mayoría de remasterizaciones, muchos fans se quejan de la escasez de nuevos contenidos y algunos incluso del precio. Pero,
+			¿no es parecerse al juego original precisamente el objetivo que se persigue? Quizá podrían haberlo hecho mejor, pero sin duda, este NFS cumple con lo esperado.
+			</resenhas>
+			<valoracion imagen="Estrella4"/>
+			<curiosidades>
+				<curiosidad>
+				El juego ha sido lanzado a solo diez días de cumplirse el décimo aniversario del lanzamiento de la versión original. Una especie de homenaje por parte de los desarrolladores.
+				</curiosidad>
+			</curiosidades>
+		</videojuego>
+		
+		<videojuego>
+			<titulo imagen="assettocorsa" version_juego="Digital" duracion="Ilimitado">Asseto Corsa Competizione</titulo>
+			<tiendas>
+				<tienda precio="39.99" moneda="E">
+					<html:embed src="https://store.steampowered.com/widget/805550/" frameborder="0" width="646" height="190">Link de compra de Asseto Corsa Competizione</html:embed>
+				</tienda>
+				<tienda precio="39.99" moneda="E">
+					<html:a href="https://www.microsoft.com/es-es/p/assetto-corsa-competizione/9p6qrrzqkpcm?activetab=pivot:overviewtab" target="_blank">Xbox Store</html:a>
+				</tienda>
+				<tienda precio="39.99" moneda="E">
+					<html:a href="https://store.playstation.com/es-es/product/EP4040-CUSA17266_00-ACCOMP0000000000" target="_blank">Playstation Store</html:a>
+				</tienda>
+			</tiendas>
+			<idiomas>
+				<idioma pais_de_origen="España"/>
+				<idioma pais_de_origen="Reino Unido"/>
+				<idioma pais_de_origen="Francia"/>
+				<idioma pais_de_origen="Alemania"/>
+				<idioma pais_de_origen="Italia"/>
+				<idioma pais_de_origen="Japon"/>
+				<idioma pais_de_origen="Holanda"/>
+				<idioma pais_de_origen="Polonia"/>
+				<idioma pais_de_origen="China"/>
+				<idioma pais_de_origen="Rusia"/>
+			</idiomas>
+			<dificultad>Fácil/Media/Dificil (Ajustable)</dificultad>
+			<edad_recomendada pegi="3">PEGI</edad_recomendada>
+			<plataformas>
+				<plataforma mando="Mando XBOX" volante="si">XBOX ONE</plataforma>
+				<plataforma mando="Teclado y ratón" volante="si">PC (Windows)</plataforma>
+				<plataforma mando="DualShock4" volante="si">PS4</plataforma>
+			</plataformas>
+			<online>Si</online>
+			<anho_de_lanzamiento>2020</anho_de_lanzamiento>
+			<desarrolladores>
+				<desarrollador pais_de_origen="Italia">Kunos Simulazioni</desarrollador>
+			</desarrolladores>
+			<empresa>Kunos Simulazioni S.R.L.</empresa>
+			<breve_descripcion>
+			Assetto Corsa Competizione es un videojuego de carreras desarrollado por la empresa Kunos Simulazioni con licencia oficial de Blancpain GT Series 2018. Fue confirmado por Kunos el 21 de febrero de 2018, 
+			y se lanzó el acceso anticipado el 27 de junio del mismo año. Se lo anunció para Microsoft Windows, PlayStation 4 y Xbox One y su lanzamiento oficial fue el 29 de mayo de 2019.
+			</breve_descripcion>
+			<resenhas>
+			Assetto Corsa Competizione va dirigido a un público muy específico: el que busca una simulación de la GT3, y hace muy bien bastantes cosas de lo que se propone, empezando por la conducción. 
+			A cambio el volumen de contenido se ve limitado por su propia definición, el número de circuitos sabrá a muy poco para el jugador acostumbrado a otros títulos –incluido el primer Assetto Corsa-, 
+			y en solitario queda escaso. Hasta aquí, las mismas virtudes y defectos que Competizione en PC, pero hay que sumar una adaptación un tanto decepcionante en el apartado gráfico.
+			</resenhas>
+			<valoracion imagen="Estrella3"/>
+			<curiosidades>
+				<curiosidad>
+				El juego está desarrollado bajo el motor Unreal Engine 4, creado por Epic Games, una de las empresas más en auge en el mundo de los videojuegos.
+				</curiosidad>
+			</curiosidades>
+		</videojuego>
+		
+		
+		<videojuego>
+			<titulo imagen="Mario Kart 8 Deluxe" version_juego="v8.0.3.1.2345" duracion="0">Mario Kart 8 Deluxe</titulo>
+			<tiendas>
+				<tienda precio="59.99" moneda="E">
+					<html:a href="https://www.nintendo.es/Juegos/Nintendo-Switch/Mario-Kart-8-Deluxe-1173281.html" target="_blank">Nintendo</html:a>
+				</tienda>
+			</tiendas>
+			<idiomas>
+				<idioma pais_de_origen="España"/>
+				<idioma pais_de_origen="Reino Unido"/>
+				<idioma pais_de_origen="Francia"/>
+				<idioma pais_de_origen="Alemania"/>
+				<idioma pais_de_origen="Italia"/>
+				<idioma pais_de_origen="Japon"/>
+				<idioma pais_de_origen="Holanda"/>
+				<idioma pais_de_origen="Polonia"/>
+				<idioma pais_de_origen="China"/>
+				<idioma pais_de_origen="Rusia"/>
+			</idiomas>
+			<dificultad>Fácil/Media/Dificil (Ajustable)</dificultad>
+			<edad_recomendada pegi="3">PEGI</edad_recomendada>
+			<plataformas>
+				<plataforma mando="Mando Switch" volante="no">Nintendo Switch</plataforma>
+			</plataformas>
+			<online>Si</online>
+			<anho_de_lanzamiento>2010</anho_de_lanzamiento>
+			<desarrolladores>
+				<desarrollador pais_de_origen="Japon">Nintendo</desarrollador>
+				<desarrollador pais_de_origen="Japon">Capcom</desarrollador>
+			</desarrolladores>
+			<empresa>Nintendo</empresa>
+			<breve_descripcion>
+			Version actuallizada de Mari Kart 8 para Switch, mas divertido y mas caro
+			</breve_descripcion>
+			<resenhas>
+			Si
+			</resenhas>
+			<valoracion imagen="Estrella5"/>
+			<curiosidades>
+				<curiosidad>
+				Esta hecho para niños, pero juegan más personas mayores
+				</curiosidad>
+			</curiosidades>
+		</videojuego>
+	</GENERO>
+	
+	<GENERO genero="Musica">
+		<videojuego>
+			<titulo imagen="GuitarHero" version_juego="0" duracion="0">GuitarHero III: Legends of Rock</titulo> 
+			<tiendas>
+				<tienda precio="0" moneda="0">Descatalogado</tienda>
+			</tiendas>
+			<idiomas>
+				<idioma pais_de_origen="España"/>
+				<idioma pais_de_origen="Reino Unido"/>
+				<idioma pais_de_origen="Francia"/>
+				<idioma pais_de_origen="Alemania"/>
+				<idioma pais_de_origen="Italia"/>
+				<idioma pais_de_origen="Holanda"/>
+				<idioma pais_de_origen="Polonia"/>
+			</idiomas>
+			<dificultad>Dificil</dificultad>
+			<edad_recomendada pegi="12">PEGI</edad_recomendada>
+			<plataformas> <!--Que plataformas soporta-->
+				<plataforma mando="Guitarra">WII</plataforma>
+				<plataforma mando="Guitarra">PS2</plataforma>
+				<plataforma mando="Guitarra">PS3</plataforma>
+				<plataforma mando="Guitarra">XBOX360</plataforma>
+				<plataforma mando="Teclado y ratón">PC</plataforma>
+			</plataformas>
+			<online>Si</online>
+			<anho_de_lanzamiento>2007</anho_de_lanzamiento>
+			<desarrolladores>
+				<desarrollador pais_de_origen="Estados Unidos">Neversoft</desarrollador>
+				<desarrollador pais_de_origen="Estados Unidos">Aspur Media</desarrollador>
+				<desarrollador pais_de_origen="Estados Unidos">Vicarious Visions</desarrollador>
+			</desarrolladores>
+			<empresa>Activision</empresa> <!--Empresa que vende el juego-->
+			<breve_descripcion>Guitar Hero III es un videojuego de música en el que se utiliza un control en forma de guitarra para tocar diversas canciones</breve_descripcion>
+			<resenhas>Si</resenhas>
+			<valoracion imagen="Estrella5"/>
+			<curiosidades>
+				<curiosidad>Debido a que el guitarrista de Guns N' Roses Slash aparecía en el juego, el líder de la banda Axl Rose decidió demandar a Activision.</curiosidad>
+				<curiosidad>La capacidad de tocar la canción "Through the Fire and Flames" en modo difícil está al alcance de muy pocos.</curiosidad>
+				<curiosidad>Vendió tantas unidades que Activision tuvo problemas para abastecer la fuerte demanda.</curiosidad>
+			</curiosidades>
+		</videojuego>
+	</GENERO>
+	
+	<GENERO genero="MOBA">
+		<videojuego>
+			<titulo imagen="Arena of Valor" version_juego="v4.5.6" duracion="0">Arena of Valor</titulo> 
+			<tiendas>
+				<tienda precio="0" moneda="0">
+					<html:a href="https://apps.apple.com/es/app/arena-of-valor/id1150318642" target="_blank">Apple Store</html:a>
+				</tienda>
+				<tienda precio="0" moneda="0">
+					<html:a href="https://play.google.com/store/apps/details?id=com.ngame.allstar.eu" target="_blank">Play Store</html:a>
+				</tienda>
+			</tiendas>
+			<idiomas>
+				<idioma pais_de_origen="España"/>
+				<idioma pais_de_origen="Reino Unido"/>
+				<idioma pais_de_origen="Francia"/>
+				<idioma pais_de_origen="Alemania"/>
+				<idioma pais_de_origen="Italia"/>
+				<idioma pais_de_origen="Holanda"/>
+				<idioma pais_de_origen="China"/>
+			</idiomas>
+			<dificultad>Dificil</dificultad>
+			<edad_recomendada pegi="16">PEGI</edad_recomendada>
+			<plataformas> <!--Que plataformas soporta-->
+				<plataforma mando="MandoSwitch">Switch</plataforma>
+				<plataforma mando="PantallaMovil">Movil</plataforma>
+			</plataformas>
+			<online>Si</online>
+			<anho_de_lanzamiento>2018</anho_de_lanzamiento>
+			<desarrolladores>
+				<desarrollador pais_de_origen="China">Tencent</desarrollador>
+			</desarrolladores>
+			<empresa>Tencent</empresa> <!--Empresa que vende el juego-->
+			<breve_descripcion>Copia del Honor of Kings</breve_descripcion>
+			<resenhas>Si</resenhas>
+			<valoracion imagen="Estrella1"/>
+			<curiosidades>
+				<curiosidad>Va a morir cuando salga Wild Rift</curiosidad>
+				<curiosidad>Comunidad muy toxica</curiosidad>
+				<curiosidad>Casi tan tilteante como el LoL</curiosidad>
+			</curiosidades>
+		</videojuego>	
+	</GENERO>
+</VIDEOJUEGOS>
