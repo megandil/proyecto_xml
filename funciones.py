@@ -7,3 +7,8 @@ def menu():
 6.Salir''')
     opcion=int(input("Introduce la opcion:"))
     return opcion
+def leernombres():
+    from lxml import etree
+    doc = etree.parse('/home/usuario/Documentos/proyectolm/xml/proyecto_xml/videojuegos.xml')
+    juegos=doc.xpath("//videojuego/titulo/text()")
+    return juegos
