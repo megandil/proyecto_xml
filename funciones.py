@@ -12,3 +12,9 @@ def leernombres():
     doc = etree.parse('/home/usuario/Documentos/proyectolm/xml/proyecto_xml/videojuegos.xml')
     juegos=doc.xpath("//videojuego/titulo/text()")
     return juegos
+def contargenero(nombregenero):
+    from lxml import etree
+    doc = etree.parse('/home/usuario/Documentos/proyectolm/xml/proyecto_xml/videojuegos.xml')
+    generos=doc.xpath('//GENERO[@genero="%s"]/videojuego/titulo/text()' % nombregenero)
+    cuenta=len(generos)
+    return cuenta
