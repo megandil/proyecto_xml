@@ -18,3 +18,19 @@ def contargenero(nombregenero):
     generos=doc.xpath('//GENERO[@genero="%s"]/videojuego/titulo/text()' % nombregenero)
     cuenta=len(generos)
     return cuenta
+def tiendasjuego(nombrejuego):
+    from lxml import etree
+    doc = etree.parse('/home/usuario/Documentos/proyectolm/xml/proyecto_xml/videojuegos.xml')
+    tiendas=doc.xpath('//GENERO/videojuego/titulo[text()="%s"]/../tiendas/tienda/text()' % nombrejuego)
+    return tiendas
+def menujuegos():
+    print("------JUEGOS------")
+    print('''1.Valorant (FPS)
+2.Fifa 20 (Deportes)
+3.Minecraft (Plataformas)
+4.Final Fantasy VII Remake (RPG)
+5.Mario Kart 8 Deluxe (Carreras)
+6.Elegir otro
+7.Salir''')
+    opcion=int(input("Introduce la opcion:"))
+    return opcion
