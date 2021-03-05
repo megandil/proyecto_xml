@@ -139,7 +139,7 @@
 			<plataformas> <!--Que plataformas soporta-->
 				<plataforma mando="Teclado y raton">PC</plataforma>
 				<plataforma mando="Mando XBOX">XBOX ONE</plataforma>
-				<plataforma mando="Mando Playstation">PS4</plataforma>
+				<plataforma mando="Mando Playstation">Playstation 4</plataforma>
 			</plataformas>
 			<online>Si</online>
 			<anho_de_lanzamiento>2016</anho_de_lanzamiento>
@@ -300,7 +300,7 @@
 		<plataformas> 
 			<plataforma mando="Mando XBOX">XBOX ONE</plataforma>
 			<plataforma mando="Teclado y ratón">PC</plataforma>
-			<plataforma mando="DualShock4">PS4</plataforma>
+			<plataforma mando="DualShock4">Playstation 4</plataforma>
 			<plataforma mando="Mando Switch">Nintendo Switch</plataforma>
 		</plataformas>
 		<online>Si</online>
@@ -434,7 +434,7 @@
 			<edad_recomendada pegi="12">PEGI</edad_recomendada>
 			<plataformas>
 				<plataforma mando="Teclado y raton">PC</plataforma>
-				<plataforma mando="DualShock4">PS4</plataforma>
+				<plataforma mando="DualShock4">Playstation 4</plataforma>
 			</plataformas>
 			<online>No</online>
 			<anho_de_lanzamiento>2015</anho_de_lanzamiento>
@@ -513,7 +513,7 @@
 			<dificultad>Media</dificultad>
 			<edad_recomendada pegi="12">PEGI</edad_recomendada>
 			<plataformas>
-				<plataforma mando="DualShock4">PS4</plataforma>
+				<plataforma mando="DualShock4">Playstation 4</plataforma>
 				<plataforma mando="Teclado y raton">PC</plataforma>
 			</plataformas>
 			<online>Si</online>
@@ -624,7 +624,7 @@
 			<plataformas>
 				<plataforma mando="Mando XBOX" volante="si">XBOX ONE</plataforma>
 				<plataforma mando="Teclado y ratón" volante="si">PC</plataforma>
-				<plataforma mando="DualShock4" volante="si">PS4</plataforma>
+				<plataforma mando="DualShock4" volante="si">Playstation 4</plataforma>
 				<plataforma mando="Mando Switch" volante="no">Nintendo Switch</plataforma>
 			</plataformas>
 			<online>Si</online>
@@ -676,7 +676,7 @@
 			<plataformas>
 				<plataforma mando="Mando XBOX" volante="si">XBOX ONE</plataforma>
 				<plataforma mando="Teclado y ratón" volante="si">PC</plataforma>
-				<plataforma mando="DualShock4" volante="si">PS4</plataforma>
+				<plataforma mando="DualShock4" volante="si">Playstation 4</plataforma>
 			</plataformas>
 			<online>Si</online>
 			<anho_de_lanzamiento>2020</anho_de_lanzamiento>
