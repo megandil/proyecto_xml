@@ -1,6 +1,7 @@
 from lxml import etree
 from funciones import *
 doc = etree.parse('/home/usuario/Documentos/proyectolm/xml/proyecto_xml/videojuegos.xml')
+#Sin la ruta completa en el "etree.parse" no me encuentra el fichero XML, por eso está puesta la ruta completa.
 menus=menu()
 print(menus)
 while menus != 6:
@@ -40,5 +41,18 @@ while menus != 6:
             print()
             menujuego=menujuegos()
             print(menujuego)
+    if menus == 4:
+        onlines=input("¿Quieres ver juegos con ONLINE o sin ONLINE? Sin/Con: ")
+        while onlines.upper() != "SIN" and onlines.upper() != "CON":
+            print("No es una respuesta válida.")
+            onlines=input("¿Quieres ver juegos con ONLINE o sin ONLINE? Sin/Con")
+        if onlines.upper() == "CON":
+            onlines="Si"
+        if onlines.upper()== "SIN":
+            onlines="No"
+        print("------JUEGOS------")
+        for i in online(onlines):
+            print("-",i)
+        print()
     menus=menu()
     print(menus)
