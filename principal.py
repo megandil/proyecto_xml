@@ -6,8 +6,10 @@ menus=menu()
 print(menus)
 while menus != 6:
     if menus == 1:
+        print("------JUEGOS------")
         for i in leernombres():
-            print(i)
+            print("-",i)
+        print()
     if menus == 2:
         generos=doc.xpath('//GENERO/@genero')
         print("------------------------------")
@@ -54,5 +56,33 @@ while menus != 6:
         for i in online(onlines):
             print("-",i)
         print()
+    if menus == 5:
+        menuplataforma=menuplataformas()
+        print(menuplataforma)
+        while menuplataforma != 10:
+            if menuplataforma == 1:
+                plat="Playstation 5"
+            if menuplataforma== 2:
+                plat="Playstation 4"
+            if menuplataforma == 3:
+                plat="PS3"
+            if menuplataforma == 4:
+                plat="PC"
+            if menuplataforma == 5:
+                plat="Nintendo DS"
+            if menuplataforma == 6:
+                plat="Nintendo Switch"
+            if menuplataforma == 7:
+                plat="XBOX ONE"
+            if menuplataforma == 8:
+                plat="XBOX 360"
+            if menuplataforma == 9:
+                plat="Movil"
+            print("------JUEGOS------")
+            for i in juegosplataforma(plat):
+                print("-",i)
+            print()
+            menuplataforma=menuplataformas()
+            print(menuplataforma)
     menus=menu()
     print(menus)
