@@ -299,7 +299,7 @@
 		<edad_recomendada pegi="3">PEGI</edad_recomendada>
 		<plataformas> 
 			<plataforma mando="Mando XBOX">XBOX ONE</plataforma>
-			<plataforma mando="Teclado y ratón">PC (Windows)</plataforma>
+			<plataforma mando="Teclado y ratón">PC</plataforma>
 			<plataforma mando="DualShock4">PS4</plataforma>
 			<plataforma mando="Mando Switch">Nintendo Switch</plataforma>
 		</plataformas>
@@ -566,7 +566,7 @@
 			<edad_recomendada pegi="3">PEGI</edad_recomendada>
 			<plataformas>
 				<plataforma mando="Mando XBOX" volante="si">XBOX ONE</plataforma>
-				<plataforma mando="Teclado y ratón" volante="si">PC (Windows)</plataforma>
+				<plataforma mando="Teclado y ratón" volante="si">PC</plataforma>
 			</plataformas>
 			<online>Si</online>
 			<anho_de_lanzamiento>2018</anho_de_lanzamiento>
@@ -623,7 +623,7 @@
 			<edad_recomendada pegi="3">PEGI</edad_recomendada>
 			<plataformas>
 				<plataforma mando="Mando XBOX" volante="si">XBOX ONE</plataforma>
-				<plataforma mando="Teclado y ratón" volante="si">PC (Windows)</plataforma>
+				<plataforma mando="Teclado y ratón" volante="si">PC</plataforma>
 				<plataforma mando="DualShock4" volante="si">PS4</plataforma>
 				<plataforma mando="Mando Switch" volante="no">Nintendo Switch</plataforma>
 			</plataformas>
@@ -675,7 +675,7 @@
 			<edad_recomendada pegi="3">PEGI</edad_recomendada>
 			<plataformas>
 				<plataforma mando="Mando XBOX" volante="si">XBOX ONE</plataforma>
-				<plataforma mando="Teclado y ratón" volante="si">PC (Windows)</plataforma>
+				<plataforma mando="Teclado y ratón" volante="si">PC</plataforma>
 				<plataforma mando="DualShock4" volante="si">PS4</plataforma>
 			</plataformas>
 			<online>Si</online>
