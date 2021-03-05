@@ -34,3 +34,8 @@ def menujuegos():
 7.Salir''')
     opcion=int(input("Introduce la opcion:"))
     return opcion
+def online(respuesta):
+    from lxml import etree
+    doc = etree.parse('/home/usuario/Documentos/proyectolm/xml/proyecto_xml/videojuegos.xml')
+    juegosonline=doc.xpath('//GENERO/videojuego/online[text()="%s"]/../titulo/text()' % respuesta)
+    return juegosonline
