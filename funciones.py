@@ -1,3 +1,5 @@
+from lxml import etree
+doc = etree.parse('/home/usuario/Documentos/proyectolm/xml/proyecto_xml/videojuegos.xml')
 def menu():
     print('''1.Mostrar el nombre de todos los videojuegos.
 2.Muestra la cantidad de juegos pertenecientes a un genero introducido.
@@ -8,19 +10,13 @@ def menu():
     opcion=int(input("Introduce la opcion:"))
     return opcion
 def leernombres():
-    from lxml import etree
-    doc = etree.parse('/home/usuario/Documentos/proyectolm/xml/proyecto_xml/videojuegos.xml')
     juegos=doc.xpath("//videojuego/titulo/text()")
     return juegos
 def contargenero(nombregenero):
-    from lxml import etree
-    doc = etree.parse('/home/usuario/Documentos/proyectolm/xml/proyecto_xml/videojuegos.xml')
     generos=doc.xpath('//GENERO[@genero="%s"]/videojuego/titulo/text()' % nombregenero)
     cuenta=len(generos)
     return cuenta
 def tiendasjuego(nombrejuego):
-    from lxml import etree
-    doc = etree.parse('/home/usuario/Documentos/proyectolm/xml/proyecto_xml/videojuegos.xml')
     tiendas=doc.xpath('//GENERO/videojuego/titulo[text()="%s"]/../tiendas/tienda/text()' % nombrejuego)
     return tiendas
 def menujuegos():
@@ -35,7 +31,22 @@ def menujuegos():
     opcion=int(input("Introduce la opcion:"))
     return opcion
 def online(respuesta):
-    from lxml import etree
-    doc = etree.parse('/home/usuario/Documentos/proyectolm/xml/proyecto_xml/videojuegos.xml')
     juegosonline=doc.xpath('//GENERO/videojuego/online[text()="%s"]/../titulo/text()' % respuesta)
     return juegosonline
+def juegosplataforma(plataforma):
+    juegos=doc.xpath('//GENERO/videojuego/plataformas/plataforma[text()="%s"]/../../titulo/text()' % plataforma)
+    return juegos
+def menuplataformas():
+    print("------PLATAFORMAS------")
+    print('''1.Playstation 5
+2.PLaystation 4
+3.Playstation 3
+4.PC
+5.Nintendo DS
+6.Nintendo Switch
+7.XBOX ONE
+8.XBOX 360
+9.Movil
+10.Salir''')
+    opcion=int(input("Introduce la opcion:"))
+    return opcion
